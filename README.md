@@ -11,6 +11,7 @@ Files to remove:
 Also replace the corresponding code in `src/App.ts`.
 
 ## Important commands:
+Run from project root!
 * `npm run build`
 * `npm start`
 * `npm test`
